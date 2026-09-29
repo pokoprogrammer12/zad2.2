@@ -28,5 +28,6 @@
                   Width="240" />
                 <ProgressBar Value="65"
                        Width="240" />
+                <Separator Width="240" />
     </StackPanel>
 </Window>
