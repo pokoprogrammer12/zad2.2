@@ -1,0 +1,10 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="okno.MainWindow"
+        Title="Drugie okno"
+        Width="640"
+        Height="420">
+  <TextBlock Text="Witaj w drugim oknie!"
+             HorizontalAlignment="Center"
+             VerticalAlignment="Center" />
+</Window>
