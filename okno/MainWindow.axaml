@@ -7,6 +7,7 @@
   <Window.Background>#14213D</Window.Background>
       <TextBlock Text="Warsztat"
                                      FontSize="42"
+                                     FontWeight="Bold"
              HorizontalAlignment="Center"
              VerticalAlignment="Center" />
 </Window>
