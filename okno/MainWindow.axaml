@@ -4,7 +4,7 @@
         Title="Drugie okno"
         Width="640"
         Height="420">
-  <TextBlock Text="Witaj w drugim oknie!"
+  <TextBlock Text="Warsztat"
              HorizontalAlignment="Center"
              VerticalAlignment="Center" />
 </Window>
