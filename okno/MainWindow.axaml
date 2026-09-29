@@ -4,6 +4,7 @@
         Title="Drugie okno"
         Width="640"
         Height="420">
+  <Window.Background>#14213D</Window.Background>
   <TextBlock Text="Warsztat"
              HorizontalAlignment="Center"
              VerticalAlignment="Center" />
