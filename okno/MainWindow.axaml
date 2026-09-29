@@ -8,6 +8,7 @@
       <TextBlock Text="Warsztat"
                                      FontSize="42"
                                      FontWeight="Bold"
+                                     Foreground="#FCA311"
              HorizontalAlignment="Center"
              VerticalAlignment="Center" />
 </Window>
