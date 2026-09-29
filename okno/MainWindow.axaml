@@ -21,5 +21,7 @@
               HorizontalAlignment="Center" />
             <CheckBox Content="Tryb skupienia"
                   HorizontalAlignment="Center" />
+            <TextBox Watermark="Wpisz swoje imię"
+                 Width="240" />
     </StackPanel>
 </Window>

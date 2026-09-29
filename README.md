@@ -10,3 +10,4 @@
 8. Dodanie przycisku „Rozpocznij”; diff: 3 linie; rozumiem: 3.
 9. Doprecyzowanie tekstu przycisku; diff: 1 linia; rozumiem: 1.
 10. Dodanie pola wyboru „Tryb skupienia”; diff: 2 linie; rozumiem: 2.
+11. Dodanie pola tekstowego z podpowiedzią; diff: 2 linie; rozumiem: 2.
