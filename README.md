@@ -14,3 +14,4 @@
 12. Dodanie suwaka ustawień; diff: 3 linie; rozumiem: 3.
 13. Dodanie paska postępu ustawionego na 65 procent; diff: 2 linie; rozumiem: 2.
 14. Dodanie separatora pod kontrolkami; diff: 1 linia; rozumiem: 1.
+15. Dodanie marginesu wokół zawartości okna; diff: 1 linia; rozumiem: 1.
