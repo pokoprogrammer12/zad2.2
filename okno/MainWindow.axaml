@@ -5,7 +5,8 @@
         Width="640"
         Height="420">
   <Window.Background>#14213D</Window.Background>
-  <TextBlock Text="Warsztat"
+      <TextBlock Text="Warsztat"
+                                     FontSize="42"
              HorizontalAlignment="Center"
              VerticalAlignment="Center" />
 </Window>
