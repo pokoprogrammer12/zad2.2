@@ -3,7 +3,8 @@
         x:Class="okno.MainWindow"
         Title="Drugie okno"
         Width="640"
-        Height="420">
+        Height="420"
+        WindowStartupLocation="CenterScreen">
   <Window.Background>#14213D</Window.Background>
       <TextBlock Text="Warsztat"
                                      FontSize="42"

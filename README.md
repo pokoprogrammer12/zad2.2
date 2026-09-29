@@ -5,3 +5,4 @@
 3. Powiększenie napisu do 42 punktów; diff: 1 linia; rozumiem: 1.
 4. Pogrubienie napisu; diff: 1 linia; rozumiem: 1.
 5. Ustawienie pomarańczowego koloru napisu; diff: 1 linia; rozumiem: 1.
+6. Wyśrodkowanie okna na ekranie przy uruchomieniu; diff: 1 linia; rozumiem: 1.
