@@ -7,3 +7,4 @@
 5. Ustawienie pomarańczowego koloru napisu; diff: 1 linia; rozumiem: 1.
 6. Wyśrodkowanie okna na ekranie przy uruchomieniu; diff: 1 linia; rozumiem: 1.
 7. Dodanie podtytułu pod głównym napisem; diff: 10 linii; rozumiem: 10.
+8. Dodanie przycisku „Rozpocznij”; diff: 3 linie; rozumiem: 3.

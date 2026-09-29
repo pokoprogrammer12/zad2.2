@@ -17,5 +17,7 @@
         <TextBlock Text="Małe zmiany, czytelny kod"
                              Foreground="White"
                              HorizontalAlignment="Center" />
+            <Button Content="Rozpocznij"
+              HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
