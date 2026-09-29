@@ -19,5 +19,7 @@
                              HorizontalAlignment="Center" />
             <Button Content="Kliknij, aby rozpocząć"
               HorizontalAlignment="Center" />
+            <CheckBox Content="Tryb skupienia"
+                  HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
