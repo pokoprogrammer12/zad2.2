@@ -23,5 +23,8 @@
                   HorizontalAlignment="Center" />
             <TextBox Watermark="Wpisz swoje imię"
                  Width="240" />
+                <Slider Minimum="0"
+                  Maximum="100"
+                  Width="240" />
     </StackPanel>
 </Window>

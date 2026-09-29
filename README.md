@@ -11,3 +11,4 @@
 9. Doprecyzowanie tekstu przycisku; diff: 1 linia; rozumiem: 1.
 10. Dodanie pola wyboru „Tryb skupienia”; diff: 2 linie; rozumiem: 2.
 11. Dodanie pola tekstowego z podpowiedzią; diff: 2 linie; rozumiem: 2.
+12. Dodanie suwaka ustawień; diff: 3 linie; rozumiem: 3.
